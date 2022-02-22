@@ -1,0 +1,14 @@
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\bin\Debug\GestionDesCommand.exe.config
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\bin\Debug\GestionDesCommand.exe
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\bin\Debug\GestionDesCommand.pdb
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\bin\Debug\Guna.UI.dll
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.csprojAssemblyReference.cache
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.Form1.resources
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.Properties.Resources.resources
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.csproj.GenerateResource.cache
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.csproj.CoreCompileInputs.cache
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.csproj.CopyComplete
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.exe
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.pdb
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.Form2.resources
+C:\Users\AitOmar-Dev\source\repos\GestionDesCommand\GestionDesCommand\obj\Debug\GestionDesCommand.Form3.resources
